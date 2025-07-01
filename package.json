@@ -22,7 +22,7 @@
 		"format": "prettier --config .prettierrc.js --write .",
 		"lint": "eslint ./src/",
 		"lint:fix": "eslint ./src/ --fix",
- "start": "node src/client/index.js"
+		"start": "node index.js"
 	},
 	"devDependencies": {
 		"@eslint/eslintrc": "^3.3.0",
